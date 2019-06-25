@@ -18,3 +18,6 @@ spring:
       discovery:
         enabled: true
         service-id: cmlx-config
+  data:
+    mongodb:
+      uri: mongodb://39.96.178.201:27017/test
